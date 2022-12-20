@@ -1,0 +1,6 @@
+/**/*.*
+
+!prisma/**/*.prisma
+!src/**/*.ts
+!src/**/*.tsx
+!test/**/*.*
